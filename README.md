@@ -46,3 +46,16 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 19. Implement error handling for undefined variables and out-of-bound array access.
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
+
+# Instructions
+## How to load the application:
+
+1. Download the application from https://github.com/rollie-fend/feedreader.
+2. Go to the directory where file was downloaded, right-click on the file named index.html and open it with a browser application.
+
+## How to run the application:
+
+1. The feedreader is a web-based application that reads RSS feeds.The initial screen displays a list of links to online content.
+2. On the upper-left corner of the page is a hamburger button that displays a sliding menu when clicked and hides it when clicked again.
+3. The sliding menu contains four topic options representing the websites where the feeds come from. Clicking on any topic updates the corresponding list of links diplayed on the page.  Additionaly, the page header changes to the topic that was selected.
+4. Clicking on a link takes the user to the actual website.  To go back to the feed reader application, the user has to click the browser's back button.
