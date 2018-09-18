@@ -62,4 +62,4 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 
 ### Disclosure:
 
-The code for the test suites and functions developed for the application  are largely based on those that can be found in Matthew Cranford's blog series "Journey to Greatness" (https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code, https://matthewcranford.com/feed-reader-walkthrough-part-2-writing-the-first-tests, https://matthewcranford.com/feed-reader-walkthrough-part-3-menu-test-suite, https://matthewcranford.com/feed-reader-walkthrough-part-4-async-tests)
+The code for the test suites and functions developed for the application  are largely based on those that can be found in Matthew Cranford's blog series "Journey to Greatness" (https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code, https://matthewcranford.com/feed-reader-walkthrough-part-2-writing-the-first-tests, https://matthewcranford.com/feed-reader-walkthrough-part-3-menu-test-suite, https://matthewcranford.com/feed-reader-walkthrough-part-4-async-tests).
