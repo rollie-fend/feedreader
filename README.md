@@ -59,3 +59,7 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 2. On the upper-left corner of the page is a hamburger button that displays a sliding menu when clicked and hides it when clicked again.
 3. The sliding menu contains four topic options representing the websites where the feeds come from. Clicking on any topic updates the corresponding list of links diplayed on the page.  Additionaly, the page header changes to the topic that was selected.
 4. Clicking on a link takes the user to the actual website.  To go back to the feed reader application, the user has to click the browser's back button.
+
+### Disclosure:
+
+The code for the test suites and functions developed for the application  are largely based on those that can be found in Matthew Cranford's blog series "Journey to Greatness" (https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code, https://matthewcranford.com/feed-reader-walkthrough-part-2-writing-the-first-tests, https://matthewcranford.com/feed-reader-walkthrough-part-4-async-tests)
